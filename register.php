@@ -2,4 +2,5 @@
 
 echo "register";
 
+echo "page";
 ?>
